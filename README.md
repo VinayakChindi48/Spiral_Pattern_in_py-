@@ -17,5 +17,3 @@ while flag:
     dist+=1
     flag-=1
 turtle.done()
-
-print('exited')
